@@ -46,7 +46,7 @@ class MoveLinkedList:
         return moves
 #Our graphic User interface GUI for the game
 class DivisionGameGUI:
-    def _init_(self, root):
+    def __init__(self, root):
         self.root = root
         self.root.title("Division Game - Computer vs Player")
         self.root.geometry("900x700")
@@ -335,7 +335,7 @@ class DivisionGameGUI:
         
 #The main rntry point of the program
 # The main function initializes the GUI and starts the game loop
-if _name_ == "_main_":
+if __name__== "__main__":
     root = tk.Tk()
     app = DivisionGameGUI(root)
     root.mainloop()
