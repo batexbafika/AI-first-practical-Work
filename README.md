@@ -12,5 +12,5 @@ turn ends the game empties the bank by adding bank points to his points.
 If the players have the same number of points, the result is a draw. Otherwise, the player with the higher number of points wins.
 
 Team:
-Ntoh Batex Bafika 
-manuga Rupatungee
+Ntoh Batex Bafika,
+Manuga Rupatungee,
