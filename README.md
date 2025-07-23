@@ -10,3 +10,7 @@ If division by 3 is done, then 3 points are added to the player's own score. On 
 then 1 point is added to the bank. The game ends when a number less than or equal to 10 has just been acquired. The player whose 
 turn ends the game empties the bank by adding bank points to his points. 
 If the players have the same number of points, the result is a draw. Otherwise, the player with the higher number of points wins.
+
+Team 
+Ntoh Batex Bafika 
+manuga Rupatungee
